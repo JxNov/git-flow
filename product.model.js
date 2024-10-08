@@ -1,1 +1,2 @@
-console.log("product.model.js");
+console.log("product.model.js, ok");
+console.log("Fixed");
